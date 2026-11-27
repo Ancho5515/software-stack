@@ -1,0 +1,3 @@
+/installers/*
+!/installers/清单.md
+!/installers/SHA256SUMS.txt
