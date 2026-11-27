@@ -16,9 +16,8 @@
 
 | 软件 | 简介 | 使用备注 |
 | --- | --- | --- |
-| [Notepad4](https://github.com/zufuliu/notepad4) | 轻量级 Windows 文本及代码编辑器，支持语法高亮、编码转换和文本搜索。 | 侧重启动速度、资源占用及大文件编辑；搭配自研侧边栏和 Markdown 渲染工具完善使用体验。 |
-| [Notepad4 Sidebar](https://github.com/Ancho5515/notepad4-sidebar) | 自研 Notepad4 外部侧边栏辅助工具。 | 通过独立窗口管理与左侧标签列表组织多个 Notepad4 窗口，目标是在不修改编辑器本体的情况下实现类似 Edge 的垂直标签体验。 |
-| Markdown 渲染工具（自研） | 为 Markdown 文档提供独立的渲染和阅读能力。 | 与 Notepad4 配合，将轻量文本编辑与格式化预览分离；项目链接待补充。 |
+| [Notepad4](https://github.com/zufuliu/notepad4) | 轻量级 Windows 文本及代码编辑器，支持语法高亮、编码转换和文本搜索。 | 侧重启动速度、资源占用及大文件编辑；搭配自研 Notepad4 Sidebar，扩展垂直标签与 Markdown 预览功能。 |
+| [Notepad4 Sidebar](https://github.com/Ancho5515/notepad4-sidebar) | 自研 Notepad4 外部侧边栏辅助工具。 | 通过独立窗口管理与左侧标签列表组织多个 Notepad4 窗口，提供类似 Edge 的垂直标签体验，并集成 Markdown 渲染与预览功能。 |
 
 ## 网络与下载
 
@@ -26,7 +25,7 @@
 | --- | --- | --- |
 | [Microsoft Edge](https://www.microsoft.com/edge) | 基于 Chromium 的网页浏览器，支持垂直标签、扩展及跨设备同步。 | 日常网页浏览及 Web 应用使用。 |
 | [FluxDown](https://github.com/zerx-lab/FluxDown) | 基于 Rust 的多协议下载管理器，支持并行下载、断点续传及浏览器扩展集成。 | 作为 IDM 的替代选择，重点关注浏览器下载接管与网页媒体嗅探能力。 |
-| Clash | 基于规则的网络代理工具，可按域名、地址等条件进行流量分流。 | 用于网络代理及规则管理；具体客户端和内核版本待补充。 |
+| [Clash Verge](https://github.com/zzzgydi/clash-verge) | 开源图形化网络代理客户端，支持规则分流与代理配置管理。 | 用于日常网络代理及规则管理。 |
 | [Wireshark](https://www.wireshark.org/) | 开源网络协议分析工具，支持数据包捕获、协议解析与过滤。 | 用于网络通信调试、协议分析及故障排查。 |
 
 ## AI 与语言辅助
